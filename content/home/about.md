@@ -34,5 +34,4 @@ weight = 5
 +++
 
 # Biography
-{{% staticref "files/cv.pdf" %}}
-I am an MRes student in Economics at Universitat Pompeu Fabra. My research interests lie in the areas of microeconomic theory, behavioral and experimental economics.
+I am an MRes student in Economics at Universitat Pompeu Fabra. My research interests lie in the areas of microeconomic theory, behavioral and experimental economics{{% staticref "files/cv.pdf" %}}.{{% /staticref %}}
