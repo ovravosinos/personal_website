@@ -259,7 +259,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "CV"
-  url = "static/files/cv.pdf"
+  url = "static/files/cv.pdf" {{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
   weight = 3
 
 [[menu.main]]
