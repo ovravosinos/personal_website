@@ -259,7 +259,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "CV"
-  url = "ovravosinos.github.io/static/files/cv.pdf"
+  url = "github.com/ovravosinos/personal_website/tree/master/static/files/cv.pdf"
   weight = 3
 
 [[menu.main]]
