@@ -19,11 +19,11 @@ weight = 5
 [[education.courses]]
   course = "MRes in Economics"
   institution = "Universitat Pompeu Fabra"
-  year = 2019
+  year = "2019 (expected)"
 
 [[education.courses]]
   course = "MSc in Economics"
-  institution = "Barcelona Graduate School of Economics - Universitat Pompeu Fabra"
+  institution = "Barcelona Graduate School of Economics (UPF)"
   year = 2018
 
 [[education.courses]]
