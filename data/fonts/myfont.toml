@@ -5,11 +5,11 @@ name = "Cormorant Garamond"
 google_fonts = "Cormorant Garamond|Cormorant Garamond|Cormorant Garamond+Cormorant Garamond"
 
 # Font families
-heading_font = "Playfair Display"
+heading_font = "Cormorant Garamond"
 body_font = "Cormorant Garamond"
 nav_font = "Cormorant Garamond"
 mono_font = "Cormorant Garamond"
 
 # Font size
-font_size = "20"
-font_size_small = "16"
+font_size = "24"
+font_size_small = "18"
