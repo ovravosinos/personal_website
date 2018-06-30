@@ -2,7 +2,7 @@
 title = "On the determinants of bitcoin returns: A LASSO approach"
 
 # Date first published.
-date = "2018-20-03"
+date = "2018"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Theodore Panagiotidis", "Thanasis Stengos", "Orestis Vravosinos"]
@@ -19,7 +19,7 @@ authors = ["Theodore Panagiotidis", "Thanasis Stengos", "Orestis Vravosinos"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Finance Research Letters*"
+publication = "*Finance Research Letters* (In Press)"
 #publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-#url_pdf = "pdf/my-paper-name.pdf"
+url_pdf = "https://doi.org/10.1016/j.frl.2018.03.016"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -47,7 +47,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://doi.org/10.1016/j.frl.2018.03.016"
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
