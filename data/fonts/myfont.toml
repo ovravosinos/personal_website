@@ -2,10 +2,10 @@
 name = "Garamond"
 
 # Optional Google font URL
-#google_fonts = "Lato:400,700|Merriweather|Roboto+Mono"
+google_fonts = "Playfair Display|Cormorant Garamond|Cormorant Garamond+Mono"
 
 # Font families
-heading_font = "Cormorant Garamond"
+heading_font = "Playfair Display"
 body_font = "Cormorant Garamond"
 nav_font = "Cormorant Garamond"
 mono_font = "Cormorant Garamond"
