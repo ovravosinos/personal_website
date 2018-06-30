@@ -47,7 +47,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.sciencedirect.com/science/article/abs/pii/S1544612318300023"
+url_source = "https://doi.org/10.1016/j.frl.2018.03.016"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
