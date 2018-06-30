@@ -2,7 +2,7 @@
 title = "On the determinants of bitcoin returns: A LASSO approach"
 
 # Date first published.
-date = "2018"
+date = "Mar 20, 2018"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Theodore Panagiotidis", "Thanasis Stengos", "Orestis Vravosinos"]
