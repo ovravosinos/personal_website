@@ -11,5 +11,6 @@ nav_font = "Cormorant Garamond"
 mono_font = "Cormorant Garamond"
 
 # Font size
+font_size_large = "20"
 font_size = "20"
 font_size_small = "18"
