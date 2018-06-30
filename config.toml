@@ -259,7 +259,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "CV"
-  url = "#CV"
+  url = "/files/cv.pdf"
   weight = 3
 
 [[menu.main]]
