@@ -259,7 +259,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "CV"
-  url = "CV"
+  url = "#CV"
   weight = 3
 
 [[menu.main]]
