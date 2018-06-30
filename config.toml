@@ -62,7 +62,7 @@ enableGitInfo = false
   organizations = [ { name = "Universitat Pompeu Fabra", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "photo.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "website_hugo.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "orestis.vravosinos@barcelonagse.eu"
   address = "Carrer de Ramon Trias Fargas, 25-27, Universitat Pompeu Fabra, Barcelona, 08005, Spain"
   office_hours = ""
