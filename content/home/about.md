@@ -17,21 +17,21 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "[{ name = "MRes in Economics", url = "ttps://www.upf.edu/web/econ/research-master" }]"
-  institution = "[{ name = "Universitat Pompeu Fabra", url = "https://www.upf.edu/web/econ" }]"
+  course = [{ name = "MRes in Economics", url = "ttps://www.upf.edu/web/econ/research-master" }]
+  institution = [{ name = "Universitat Pompeu Fabra", url = "https://www.upf.edu/web/econ" }]
   year = "2019 (expected)"
 
 [[education.courses]]
-  course = "[{ name = "MSc in Economics", url = "https://www.barcelonagse.eu/study/masters-programs/economics" }] "
-  institution = "[{ name = "Barcelona Graduate School of Economics", url = "https://www.barcelonagse.eu" }] (UPF)"
+  course = [{ name = "MSc in Economics", url = "https://www.barcelonagse.eu/study/masters-programs/economics" }]
+  institution = [{ name = "Barcelona Graduate School of Economics", url = "https://www.barcelonagse.eu" }]
   year = 2018
 
 [[education.courses]]
-  course = "[{ name = "BSc in Finance", url = "http://www.uom.gr/index.php?tmima=5" }]"
-  institution = "[{ name = "University of Macedonia", url = "http://www.uom.gr/index.php?newlang=eng" }], Greece"
+  course = [{ name = "BSc in Finance", url = "http://www.uom.gr/index.php?tmima=5" }]
+  institution = [{ name = "University of Macedonia", url = "http://www.uom.gr/index.php?newlang=eng" }]
   year = 2017
  
 +++
 
 # Biography
-I am an MRes student in Economics at "[{ name = "Universitat Pompeu Fabra", url = "https://www.upf.edu/"}]". My research interests lie in the areas of microeconomic theory, behavioral and experimental economics.
+I am an MRes student in Economics at [{ name = "Universitat Pompeu Fabra", url = "https://www.upf.edu/"}]. My research interests lie in the areas of microeconomic theory, behavioral and experimental economics.
