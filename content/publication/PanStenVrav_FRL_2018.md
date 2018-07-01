@@ -30,13 +30,13 @@ publication = "*Finance Research Letters* (In Press)"
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
+#projects = []
 
 # Links (optional).
 url_pdf = ""
