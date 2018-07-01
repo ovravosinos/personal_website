@@ -229,11 +229,6 @@ enableGitInfo = false
     link = "mailto:orestis.vravosinos@barcelonagse.eu"
 
   [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/orestis-vravosinos"
-
-  [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
     link = "https://scholar.google.es/citations?user=Hl5eeZoAAAAJ&hl=en"
@@ -247,6 +242,11 @@ enableGitInfo = false
     icon = "researchgate"
     icon_pack = "ai"
     link = "https://www.researchgate.net/profile/Orestis_Vravosinos"
+
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/orestis-vravosinos"
 
 
 # Navigation Links
