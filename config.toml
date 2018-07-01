@@ -3,8 +3,8 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://ovravosinos.github.io"
-
+#baseurl = "https://ovravosinos.github.io"
+baseurl = "https://ovravosinos.netlify.com"
 # Title of your site
 title = "Orestis Vravosinos"
 
