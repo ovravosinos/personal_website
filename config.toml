@@ -228,20 +228,25 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "mailto:orestis.vravosinos@barcelonagse.eu"
 
-  #[[params.social]]
-  #  icon = "twitter"
-  #  icon_pack = "fa"
-  #  link = "//twitter.com/GeorgeCushen"
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/orestis-vravosinos"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
     link = "https://scholar.google.es/citations?user=Hl5eeZoAAAAJ&hl=en"
 
-  #[[params.social]]
-  #  icon = "github"
-  #  icon_pack = "fa"
-  #  link = "//github.com/gcushen"
+  [[params.social]]
+    icon = "ideas-repec"
+    icon_pack = "ai"
+    link = "https://ideas.repec.org/e/pvr24.html"
+    
+  [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Orestis_Vravosinos"
 
 
 # Navigation Links
