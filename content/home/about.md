@@ -23,12 +23,12 @@ weight = 5
 
 [[education.courses]]
   course = "MSc in Economics"
-  institution = "Barcelona Graduate School of Economics"
+  institution = "Barcelona Graduate School of Economics (UPF)"
   year = 2018
 
 [[education.courses]]
   course = "BSc in Finance"
-  institution = "University of Macedonia"
+  institution = "University of Macedonia, Greece"
   year = 2017
  
 +++
