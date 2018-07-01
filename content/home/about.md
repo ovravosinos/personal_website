@@ -23,7 +23,7 @@ weight = 5
 
 [[education.courses]]
   course = [{ name = "MSc in Economics", url = "https://www.barcelonagse.eu/study/masters-programs/economics" }] 
-  institution = [{ name = "Barcelona Graduate School of Economics", url = "https://www.barcelonagse.eu" } (UPF)]
+  institution = [{ name = "Barcelona Graduate School of Economics", url = "https://www.barcelonagse.eu" }]" (UPF)"
   year = 2018
 
 [[education.courses]]
