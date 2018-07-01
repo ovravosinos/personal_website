@@ -17,18 +17,18 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = [MRes in Economics](https://www.upf.edu/web/econ/research-master)
-  institution = [Universitat Pompeu Fabra](https://www.upf.edu/web/econ)
+  course = "MRes in Economics"
+  institution = "Universitat Pompeu Fabra"
   year = "2019 (expected)"
 
 [[education.courses]]
-  course = [MSc in Economics](https://www.barcelonagse.eu/study/masters-programs/economics)
-  institution = [Barcelona Graduate School of Economics](https://www.barcelonagse.eu)
+  course = "MSc in Economics"
+  institution = "Barcelona Graduate School of Economics"
   year = 2018
 
 [[education.courses]]
-  course = [BSc in Finance](http://www.uom.gr/index.php?tmima=5)
-  institution = [University of Macedonia](http://www.uom.gr/index.php?newlang=eng)
+  course = "BSc in Finance"
+  institution = "University of Macedonia"
   year = 2017
  
 +++
