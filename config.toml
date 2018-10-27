@@ -1,6 +1,9 @@
 # Configuration of Academic
 # Documentation: https://sourcethemes.com/academic/
 
+enableRobotsTXT = true
+canonifyURLs = true
+
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 #baseurl = "https://ovravosinos.github.io"
