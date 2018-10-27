@@ -4,8 +4,6 @@ widget = "about"
 active = true
 date = 2016-04-20T00:00:00
 
-<meta name="google-site-verification" content="zuY2HBhsgJaC54CyNLsqX8o2EuugIyEQzGZu7wBC624" />
-
 # Order that this section will appear in.
 weight = 5
 
