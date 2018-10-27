@@ -4,7 +4,7 @@
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 #baseurl = "https://ovravosinos.github.io"
-baseurl = "https://ovravosinos.netlify.com"
+baseurl = "https://orestisvravosinos.netlify.com"
 # Title of your site
 title = "Orestis Vravosinos"
 
@@ -63,7 +63,7 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "website_hugo.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "orestis.vravosinos@barcelonagse.eu"
+  email = "orestis.vravosinos@upf.edu"
   address = "Carrer de Ramon Trias Fargas, 25-27, Universitat Pompeu Fabra, Barcelona, 08005, Spain"
   office_hours = ""
   phone = ""
