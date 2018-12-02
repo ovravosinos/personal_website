@@ -1,5 +1,5 @@
 # Theme metadata
-name = "custom"
+name = "1950s"
 
 # Is theme light or dark?
 light = true
@@ -16,6 +16,6 @@ menu_text_active = "#00828B"
 menu_title = "#fff"
 
 # Backgrounds
-background = "#FDFEFE"
+background = "#EAE7D6"
 home_section_odd = "#EAE7D6"
 home_section_even = "#EAE7D6"
