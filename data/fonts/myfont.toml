@@ -1,15 +1,15 @@
 # Font style metadata
-name = "Drescher Grotesk BT"
+name = "Linotype Trajanus"
 
 # Optional Google font URL
 #google_fonts = "Cormorant Garamond|Cormorant Garamond|Cormorant Garamond+Cormorant Garamond"
-google_fonts = "Drescher Grotesk BT"
+google_fonts = "Linotype Trajanus"
 
 # Font families
-heading_font = "Drescher Grotesk BT"
-body_font = "Drescher Grotesk BT"
-nav_font = "Drescher Grotesk BT"
-mono_font = "Drescher Grotesk BT"
+heading_font = "Linotype Trajanus"
+body_font = "Linotype Trajanus"
+nav_font = "Linotype Trajanus"
+mono_font = "Linotype Trajanus"
 
 # Font size
 font_size = "20"
