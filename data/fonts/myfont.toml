@@ -1,15 +1,15 @@
 # Font style metadata
-name = "Montserrat"
+name = "Peignot"
 
 # Optional Google font URL
 #google_fonts = "Cormorant Garamond|Cormorant Garamond|Cormorant Garamond+Cormorant Garamond"
-google_fonts = "Montserrat"
+google_fonts = "Peignot"
 
 # Font families
-heading_font = "Montserrat"
-body_font = "Montserrat"
-nav_font = "Montserrat"
-mono_font = "Montserrat"
+heading_font = "Peignot"
+body_font = "Peignot"
+nav_font = "Peignot"
+mono_font = "Peignot"
 
 # Font size
 font_size = "20"
