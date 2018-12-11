@@ -1,14 +1,14 @@
 # Font style metadata
-name = "Cormorant Garamond"
+name = "Palatino"
 
 # Optional Google font URL
-google_fonts = "Cormorant Garamond|Cormorant Garamond|Cormorant Garamond+Cormorant Garamond"
+#google_fonts = "Cormorant Garamond|Cormorant Garamond|Cormorant Garamond+Cormorant Garamond"
 
 # Font families
-heading_font = "Cormorant Garamond"
-body_font = "Cormorant Garamond"
-nav_font = "Cormorant Garamond"
-mono_font = "Cormorant Garamond"
+heading_font = "Palatino"
+body_font = "Palatino"
+nav_font = "Palatino"
+mono_font = "Palatino"
 
 # Font size
 font_size = "20"
