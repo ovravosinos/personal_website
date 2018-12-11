@@ -1,15 +1,15 @@
 # Font style metadata
-name = "Josefin Sans"
+name = "Josefin Slab"
 
 # Optional Google font URL
 #google_fonts = "Cormorant Garamond|Cormorant Garamond|Cormorant Garamond+Cormorant Garamond"
-google_fonts = "Josefin Sans"
+google_fonts = "Josefin Slab"
 
 # Font families
-heading_font = "Josefin Sans"
-body_font = "Josefin Sans"
-nav_font = "Josefin Sans"
-mono_font = "Josefin Sans"
+heading_font = "Josefin Slab"
+body_font = "Josefin Slab"
+nav_font = "Josefin Slab"
+mono_font = "Josefin Slab"
 
 # Font size
 font_size = "20"
