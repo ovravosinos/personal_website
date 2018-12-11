@@ -33,5 +33,5 @@ weight = 5
  
 +++
 
-# About
+%# About
 I am an MRes student in Economics at [Universitat Pompeu Fabra](https://www.upf.edu/). My research interests lie in the areas of microeconomic theory, and especially decision and game theory informed by behavioral sciences and tested via experimental methods.
