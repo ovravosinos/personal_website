@@ -1,15 +1,15 @@
 # Font style metadata
-name = "Work Sans"
+name = "Josefin Sans"
 
 # Optional Google font URL
 #google_fonts = "Cormorant Garamond|Cormorant Garamond|Cormorant Garamond+Cormorant Garamond"
-google_fonts = "Work Sans"
+google_fonts = "Josefin Sans"
 
 # Font families
-heading_font = "Work Sans"
-body_font = "Work Sans"
-nav_font = "Work Sans"
-mono_font = "Work Sans"
+heading_font = "Josefin Sans"
+body_font = "Josefin Sans"
+nav_font = "Josefin Sans"
+mono_font = "Josefin Sans"
 
 # Font size
 font_size = "20"
