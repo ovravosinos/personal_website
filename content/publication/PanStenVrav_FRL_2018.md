@@ -19,7 +19,7 @@ authors = ["Theodore Panagiotidis", "Thanasis Stengos", "Orestis Vravosinos"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Finance Research Letters*, 27: 235-240."
+publication = "*Finance Research Letters*, 27: 235-240"
 #publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
