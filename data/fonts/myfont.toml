@@ -1,15 +1,15 @@
 # Font style metadata
-name = "Lato"
+name = "Noto Serif TC"
 
 # Optional Google font URL
 #google_fonts = "Cormorant Garamond|Cormorant Garamond|Cormorant Garamond+Cormorant Garamond"
-google_fonts = "Lato"
+google_fonts = "Noto Serif TC"
 
 # Font families
-heading_font = "Lato"
-body_font = "Lato"
-nav_font = "Lato"
-mono_font = "Lato"
+heading_font = "Noto Serif TC"
+body_font = "Noto Serif TC"
+nav_font = "Noto Serif TC"
+mono_font = "Noto Serif TC"
 
 # Font size
 font_size = "20"
