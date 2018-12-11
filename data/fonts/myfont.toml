@@ -1,15 +1,15 @@
 # Font style metadata
-name = "Linotype Trajanus"
+name = "Crimson Text"
 
 # Optional Google font URL
 #google_fonts = "Cormorant Garamond|Cormorant Garamond|Cormorant Garamond+Cormorant Garamond"
-google_fonts = ""
+google_fonts = "Crimson Text"
 
 # Font families
-heading_font = "Linotype Trajanus"
-body_font = "Linotype Trajanus"
-nav_font = "Linotype Trajanus"
-mono_font = "Linotype Trajanus"
+heading_font = "Crimson Text"
+body_font = "Crimson Text"
+nav_font = "Crimson Text"
+mono_font = "Crimson Text"
 
 # Font size
 font_size = "20"
