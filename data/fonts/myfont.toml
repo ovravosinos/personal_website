@@ -1,15 +1,15 @@
 # Font style metadata
-name = "Crimson Text"
+name = "Lato"
 
 # Optional Google font URL
 #google_fonts = "Cormorant Garamond|Cormorant Garamond|Cormorant Garamond+Cormorant Garamond"
-google_fonts = "Crimson Text"
+google_fonts = "Lato"
 
 # Font families
-heading_font = "Crimson Text"
-body_font = "Crimson Text"
-nav_font = "Crimson Text"
-mono_font = "Crimson Text"
+heading_font = "Lato"
+body_font = "Lato"
+nav_font = "Lato"
+mono_font = "Lato"
 
 # Font size
 font_size = "20"
