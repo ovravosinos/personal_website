@@ -1,15 +1,15 @@
 # Font style metadata
-name = "Noto Serif TC"
+name = "Montserrat"
 
 # Optional Google font URL
 #google_fonts = "Cormorant Garamond|Cormorant Garamond|Cormorant Garamond+Cormorant Garamond"
-google_fonts = "Noto Serif TC"
+google_fonts = "Montserrat"
 
 # Font families
-heading_font = "Noto Serif TC"
-body_font = "Noto Serif TC"
-nav_font = "Noto Serif TC"
-mono_font = "Noto Serif TC"
+heading_font = "Montserrat"
+body_font = "Montserrat"
+nav_font = "Montserrat"
+mono_font = "Montserrat"
 
 # Font size
 font_size = "20"
