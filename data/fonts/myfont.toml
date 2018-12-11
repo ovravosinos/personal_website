@@ -3,7 +3,7 @@ name = "Linotype Trajanus"
 
 # Optional Google font URL
 #google_fonts = "Cormorant Garamond|Cormorant Garamond|Cormorant Garamond+Cormorant Garamond"
-google_fonts = "Linotype Trajanus"
+google_fonts = ""
 
 # Font families
 heading_font = "Linotype Trajanus"
