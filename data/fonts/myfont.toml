@@ -1,15 +1,15 @@
 # Font style metadata
-name = "Montserrat"
+name = "Roboto"
 
 # Optional Google font URL
 #google_fonts = "Cormorant Garamond|Cormorant Garamond|Cormorant Garamond+Cormorant Garamond"
-google_fonts = "Montserrat"
+google_fonts = "Roboto"
 
 # Font families
-heading_font = "Montserrat"
-body_font = "Montserrat"
-nav_font = "Montserrat"
-mono_font = "Montserrat"
+heading_font = "Roboto"
+body_font = "Roboto"
+nav_font = "Roboto"
+mono_font = "Roboto"
 
 # Font size
 font_size = "20"
