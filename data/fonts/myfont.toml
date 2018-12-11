@@ -1,15 +1,15 @@
 # Font style metadata
-name = "Peignot"
+name = "Drescher Grotesk BT"
 
 # Optional Google font URL
 #google_fonts = "Cormorant Garamond|Cormorant Garamond|Cormorant Garamond+Cormorant Garamond"
-google_fonts = "Peignot"
+google_fonts = "Drescher Grotesk BT"
 
 # Font families
-heading_font = "Peignot"
-body_font = "Peignot"
-nav_font = "Peignot"
-mono_font = "Peignot"
+heading_font = "Drescher Grotesk BT"
+body_font = "Drescher Grotesk BT"
+nav_font = "Drescher Grotesk BT"
+mono_font = "Drescher Grotesk BT"
 
 # Font size
 font_size = "20"
