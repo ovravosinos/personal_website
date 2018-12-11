@@ -1,25 +1,29 @@
 +++
-# Custom widget.
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
-widget = "custom"
-active = false
-date = 2016-04-20T00:00:00
 
-# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
+date = "2016-04-20T00:00:00"
+draft = false
+
 title = "Teaching"
 subtitle = ""
-[courses]
-  courses = [
-    "Decision Theory",
-    "Game Theory",
-    "Experimental Economics"
-  ]
+widget = "custom"
 
 # Order that this section will appear in.
-weight = 60
+weight = 10
 
 +++
+
+During fall 2018 teaching the following courses at Carleton:
+
+- Math 215: Introduction to statistics
+- Math 315: Bayesian statistics
+
+Past courses that I have taught at Carleton:
+
+- Math 245: Applied regression
+- Math 265: Probability
+- Math 275: Introduction to statistical inference
 
 This is an example of using the *custom* widget to create your own homepage section.
 
