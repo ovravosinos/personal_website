@@ -1,14 +1,15 @@
 # Font style metadata
-name = "Palatino"
+name = "Source Sans Pro"
 
 # Optional Google font URL
 #google_fonts = "Cormorant Garamond|Cormorant Garamond|Cormorant Garamond+Cormorant Garamond"
+google_fonts = "Source Sans Pro"
 
 # Font families
-heading_font = "Palatino"
-body_font = "Palatino"
-nav_font = "Palatino"
-mono_font = "Palatino"
+heading_font = "Source Sans Pro"
+body_font = "Source Sans Pro"
+nav_font = "Source Sans Pro"
+mono_font = "Source Sans Pro"
 
 # Font size
 font_size = "20"
