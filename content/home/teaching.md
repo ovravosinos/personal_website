@@ -14,7 +14,4 @@ weight = 10
 
 +++
 
-Fall 2018 (TA):
-
-- Mathematics I (UPF)
-- Financial Mathematics (UPF)
+2018-2019 (teaching assistant): Mathematics I; Financial Mathematics (UPF)
