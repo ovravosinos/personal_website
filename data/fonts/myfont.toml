@@ -1,15 +1,15 @@
 # Font style metadata
-name = "Roboto"
+name = "Work Sans"
 
 # Optional Google font URL
 #google_fonts = "Cormorant Garamond|Cormorant Garamond|Cormorant Garamond+Cormorant Garamond"
-google_fonts = "Roboto"
+google_fonts = "Work Sans"
 
 # Font families
-heading_font = "Roboto"
-body_font = "Roboto"
-nav_font = "Roboto"
-mono_font = "Roboto"
+heading_font = "Work Sans"
+body_font = "Work Sans"
+nav_font = "Work Sans"
+mono_font = "Work Sans"
 
 # Font size
 font_size = "20"
