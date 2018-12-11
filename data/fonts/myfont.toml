@@ -1,15 +1,15 @@
 # Font style metadata
-name = "Source Sans Pro"
+name = "Montserrat"
 
 # Optional Google font URL
 #google_fonts = "Cormorant Garamond|Cormorant Garamond|Cormorant Garamond+Cormorant Garamond"
-google_fonts = "Source Sans Pro"
+google_fonts = "Montserrat"
 
 # Font families
-heading_font = "Source Sans Pro"
-body_font = "Source Sans Pro"
-nav_font = "Source Sans Pro"
-mono_font = "Source Sans Pro"
+heading_font = "Montserrat"
+body_font = "Montserrat"
+nav_font = "Montserrat"
+mono_font = "Montserrat"
 
 # Font size
 font_size = "20"
