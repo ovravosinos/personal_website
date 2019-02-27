@@ -14,5 +14,4 @@ weight = 21
 
 +++
 
-- Mathematics I (UPF, 2018-2019; teaching assistant)
-- Financial Mathematics (UPF, 2018-2019; teaching assistant)
+- Mathematics I, Mathematics II, Financial Mathematics (UPF, 2018-2019; teaching assistant)
