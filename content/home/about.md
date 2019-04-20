@@ -12,6 +12,7 @@ weight = 5
   interests = [
     "Decision Theory",
     "Game Theory",
+    "Behavioral Economics",
     "Experimental Economics"
   ]
 
