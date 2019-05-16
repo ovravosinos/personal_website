@@ -39,7 +39,7 @@ selected = false
 #projects = []
 
 # Links (optional).
-url_pdf = "http://rcea.org/RePEc/pdf/wp18-14.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
