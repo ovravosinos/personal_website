@@ -43,44 +43,6 @@ a:hover, a:active, a:focus {
     background: #57058B;
 }
 
-a,
-a:visited,
-h3.article-title a:hover {
-    color: #57058B;
-}
-
-a:hover {
-    color: #57058B;
-}
-
-.navbar-default .navbar-nav li a:hover,
-.btn-primary,
-.btn-primary.btn-outline {
-    color: #57058B;
-}
-
-/* Standard buttons */
-
-.btn-primary,
-.btn-primary.btn-outline {
-    border-color: #57058B;
-}
-
-/* Hover buttons */
-
-.btn-primary.btn-outline:hover {
-    border-color: #57058B;
-}
-
-.btn-primary:hover,
-.btn-primary:focus,
-.btn-primary:active,
-.btn-primary.active,
-.btn-primary:visited,
-.btn-primary.btn-outline:active {
-    background-color: #57058B;
-}
- 
 /* Notifications dropdown */
 .site-header .top-bar .popover-region .popover-region-header-text{
   color: #57058B;
