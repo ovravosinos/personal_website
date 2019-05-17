@@ -7,7 +7,7 @@ a {
     color: #57058B;
 }
 a:hover, a:active, a:focus {
-    color: #FFFFFF;
+    color: #000000;
 }
   
 .btn-cta, a.btn-cta {
@@ -15,7 +15,7 @@ a:hover, a:active, a:focus {
 }
   
 .btn-cta:hover, a.btn-cta:hover, .btn-cta:active, a.btn-cta:active, .btn-cta:focus, a.btn-cta:focus {
-    background: #FFFFFF;
+    background: #000000;
 }
   
 .btn-primary, a.btn-primary {
@@ -23,7 +23,7 @@ a:hover, a:active, a:focus {
 }
   
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover, a.btn-primary:active, a.btn-primary:focus, a.btn-primary:hover {
-    background: #FFFFFF !important;
+    background: #000000 !important;
 }
   
 .btn-reversed, a.btn-reversed {
@@ -35,12 +35,12 @@ a:hover, a:active, a:focus {
 }
   
 .path-admin .buttons input[type=submit]:active, .path-admin .buttons input[type=submit]:focus, .path-admin .buttons input[type=submit]:hover, button:active, button:focus, button:hover, input#id_submitbutton2:active, input#id_submitbutton2:focus, input#id_submitbutton2:hover, input#id_submitbutton:active, input#id_submitbutton:focus, input#id_submitbutton:hover, input.form-submit:active, input.form-submit:focus, input.form-submit:hover, input[type=submit]:active, input[type=submit]:focus, input[type=submit]:hover, input[type=button]:active, input[type=button]:focus, input[type=button]:hover, input[type=reset]:active, input[type=reset]:focus, input[type=reset]:hover, td.submit input:active, td.submit input:focus, td.submit input:hover {
-    background: #FFFFFF;
+    background: #000000;
 }
   
 /* Topbar */
 .site-header .top-bar {
-    background: #FFFFFF;
+    background: #000000;
 }
  
 /* Notifications dropdown */
@@ -132,7 +132,7 @@ input[type="color"]:focus,
 }
   
 #topcontrol:hover {
-    background: #5C58AF;
+    background: #000000;
 }
   
 /* Moodle courses */
@@ -193,7 +193,7 @@ input[type="color"]:focus,
     color: #57058B;
 }
 .panel-group .panel .panel-heading .panel-title a:hover {
-    color: #5C58AF;
+    color: #000000;
 }
   
 #page #region-main .table>thead>tr>th {
