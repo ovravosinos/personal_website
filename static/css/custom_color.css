@@ -1,6 +1,6 @@
 /* Change Impression Colour Scheme */
-/* Primary Colour: #6964C1 */
-/* Secondary Colour: #5C58AF */
+/* Primary Colour: #57058B */
+/* Secondary Colour: #000000 */
   
 /* Links and buttons */
 a {
@@ -40,7 +40,7 @@ a:hover, a:active, a:focus {
   
 /* Topbar */
 .site-header .top-bar {
-    background: #000000;
+    background: #57058B;
 }
  
 /* Notifications dropdown */
