@@ -40,6 +40,7 @@ a:hover, a:active, a:focus {
   
 /* Topbar */
 .site-header .top-bar {
+    color: #57058B;
     background: #57058B;
 }
 
