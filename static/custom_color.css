@@ -1,0 +1,224 @@
+/* Change Impression Colour Scheme */
+/* Primary Colour: #6964C1 */
+/* Secondary Colour: #5C58AF */
+  
+/* Links and buttons */
+a {
+    color: #6964C1;
+}
+a:hover, a:active, a:focus {
+    color: #5C58AF;
+}
+  
+.btn-cta, a.btn-cta {
+    background: #6964C1;
+}
+  
+.btn-cta:hover, a.btn-cta:hover, .btn-cta:active, a.btn-cta:active, .btn-cta:focus, a.btn-cta:focus {
+    background: #5C58AF;
+}
+  
+.btn-primary, a.btn-primary {
+    background: #6964C1;
+}
+  
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover, a.btn-primary:active, a.btn-primary:focus, a.btn-primary:hover {
+    background: #5C58AF !important;
+}
+  
+.btn-reversed, a.btn-reversed {
+    color: #6964C1 !important;
+}
+  
+.path-admin .buttons input[type=submit], button, input#id_submitbutton, input#id_submitbutton2, input.form-submit, input[type=submit], input[type=button], input[type=reset], td.submit input {
+    background: #6964C1;
+}
+  
+.path-admin .buttons input[type=submit]:active, .path-admin .buttons input[type=submit]:focus, .path-admin .buttons input[type=submit]:hover, button:active, button:focus, button:hover, input#id_submitbutton2:active, input#id_submitbutton2:focus, input#id_submitbutton2:hover, input#id_submitbutton:active, input#id_submitbutton:focus, input#id_submitbutton:hover, input.form-submit:active, input.form-submit:focus, input.form-submit:hover, input[type=submit]:active, input[type=submit]:focus, input[type=submit]:hover, input[type=button]:active, input[type=button]:focus, input[type=button]:hover, input[type=reset]:active, input[type=reset]:focus, input[type=reset]:hover, td.submit input:active, td.submit input:focus, td.submit input:hover {
+    background: #5C58AF;
+}
+  
+/* Topbar */
+.site-header .top-bar {
+    background: #6964C1;
+}
+ 
+/* Notifications dropdown */
+.site-header .top-bar .popover-region .popover-region-header-text{
+  color: #6964C1;
+}
+/* Messages dropdown */
+.site-header .top-bar .popover-region a {
+  color: #6964C1;
+}
+ 
+/* Forms */
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {
+  border-color: #6964C1;
+}
+  
+/* Main Menu */
+.site-header .main-nav .nav li a:hover {
+    color: #6964C1;
+}
+.site-header .main-nav .nav .dropdown-menu {
+    border-top-color: #6964C1;
+}
+.site-header .main-nav .nav .dropdown-menu:before {
+    border-bottom-color: #6964C1;
+}
+  
+.site-header .main-nav .nav .dropdown-menu a:hover {
+    color: #6964C1;
+}
+  
+/* Frontpage carousel */
+  
+.promo-section .carousel-indicators li.active {
+    background-color: #6964C1;
+}
+  
+/* Frontpage why section */
+.why-section .figure-holder {
+    color: #6964C1;
+}
+  
+.why-section .item-title {
+    color: #6964C1;
+}
+  
+/* Frontpage testimonials section */
+.reviews-section .review-title {
+    color: #6964C1;
+}
+  
+/* Frontpage CTA section */
+.cta-section-inner {
+    background: #6964C1;
+}
+  
+/* Frontpage courses */
+#page #region-main #frontpage-course-list h2, #page #region-main #site-news-forum h2 {
+    background: #6964C1;
+}
+  
+.course_category_tree .category>.info>.categoryname {
+    background-color: #6964C1;
+}
+  
+/* Footer */
+.site-footer .footer-content {
+    background: #6964C1;
+}
+  
+/* Back to top control */
+#topcontrol {
+    background: #6964C1;
+}
+  
+#topcontrol:hover {
+    background: #5C58AF;
+}
+  
+/* Moodle courses */
+#page #region-main .loginbox {
+    border-top-color:  #6964C1;
+}
+  
+#page #region-main .region-main-inner {
+    border-top-color:  #6964C1;
+}
+  
+#page .block-region .block .header {
+    background: #6964C1;
+}
+  
+#page #region-main h3.sectionname {
+    color: #6964C1;
+}
+  
+.uneditable-input:focus, input[type=datetime]:focus, input[type=datetime-local]:focus, input[type=date]:focus, input[type=month]:focus, input[type=time]:focus, input[type=week]:focus, input[type=number]:focus, input[type=url]:focus, input[type=search]:focus, input[type=tel]:focus, input[type=color]:focus, input[type=text]:focus, input[type=email]:focus, input[type=password]:focus, textarea:focus {
+    border-color: #6964C1;
+}
+  
+/* Bootstrap Components */
+.color-theme {
+    color: #6964C1;
+}
+  
+#page #region-main .table.table-boxed>thead>tr>th {
+    background: #6964C1;
+}
+  
+.nav-tabs>li.active a, .nav-tabs>li.active a:active, .nav-tabs>li.active a:focus, .nav-tabs>li.active a:hover {
+    border-top-color: #6964C1;
+}
+  
+.custom-quote {
+    border-color: #6964C1;
+}
+  
+.custom-quote .fa {
+    color: #6964C1;
+}
+  
+.custom-quote .people .name {
+    color: #6964C1;
+}
+  
+.box.box-border {
+    border-color: #6964C1;
+}
+  
+.box.box-theme {
+    background: #6964C1;
+}
+  
+.panel-group .panel .panel-heading .panel-title a {
+    color: #6964C1;
+}
+.panel-group .panel .panel-heading .panel-title a:hover {
+    color: #5C58AF;
+}
+  
+#page #region-main .table>thead>tr>th {
+    border-bottom-color: #6964C1;
+}
+  
+.label.label-theme {
+    background: #6964C1;
+}
+  
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover, a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover {
+    border-color: #6964C1;
+    background: #6964C1;
+}
+  
+.panel-theme {
+    border-color: #6964C1;
+}
+  
+.panel-theme>.panel-footer, .panel-theme>.panel-heading {
+    border-color: #6964C1;
+    background: #6964C1;
+}
+  
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover, a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover {
+    border-color: #6964C1;
+    background: #6964C1;
+}
