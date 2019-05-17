@@ -42,6 +42,22 @@ a:hover, a:active, a:focus {
 .site-header .top-bar {
     background: #57058B;
 }
+
+/* Toolbar buttons */
+
+.btn-toolbar .btn.btn-primary {
+  background: #57058B;
+}
+
+.btn-toolbar .btn.btn-primary:hover,
+.btn-toolbar .btn.btn-primary:focus {
+  background-color: #57058B;
+}
+
+.btn-toolbar .btn.btn-primary:active,
+.btn-toolbar .btn.btn-primary.active {
+  background-color: #57058B;
+}
  
 /* Notifications dropdown */
 .site-header .top-bar .popover-region .popover-region-header-text{
