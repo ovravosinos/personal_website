@@ -238,10 +238,10 @@ enableGitInfo = false
     icon_pack = "ai"
     link = "https://ideas.repec.org/e/pvr24.html"
     
-  [[params.social]]
-    icon = "researchgate"
-    icon_pack = "ai"
-    link = "https://www.researchgate.net/profile/Orestis_Vravosinos"
+  #[[params.social]]
+  #  icon = "researchgate"
+  #  icon_pack = "ai"
+  #  link = "https://www.researchgate.net/profile/Orestis_Vravosinos"
 
   [[params.social]]
     icon = "linkedin"
