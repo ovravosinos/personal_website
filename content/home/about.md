@@ -18,6 +18,11 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "PhD in Economics"
+  institution = "New York University"
+  year = "2019 -- present"
+  
+[[education.courses]]
   course = "MRes in Economics"
   institution = "Universitat Pompeu Fabra"
   year = "2019"
