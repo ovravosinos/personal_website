@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Economics"
   institution = "New York University"
-  year = "2019 -- present"
+  year = "2019 - present"
   
 [[education.courses]]
   course = "MRes in Economics"
