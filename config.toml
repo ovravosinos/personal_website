@@ -55,16 +55,16 @@ enableGitInfo = false
 
   # Your details.
   name = "Orestis Vravosinos"
-  role = "MRes student in Economics"
+  role = "PhD student in Economics"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Universitat Pompeu Fabra", url = "https://www.upf.edu/web/econ/graduate" } ]
+  organizations = [ { name = "New York University", url = "https://as.nyu.edu/econ.html" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "website_hugo.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "orestis.vravosinos@upf.edu"
-  address = "Carrer de Ramon Trias Fargas, 25-27, Universitat Pompeu Fabra, Barcelona, 08005, Spain"
+  address = "New York University, 19 West 4th Street, New York, NY 10003, US"
   office_hours = ""
   phone = ""
   skype = ""
