@@ -63,7 +63,7 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "website_hugo.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "orestis.vravosinos@upf.edu"
+  email = "orestis.vravosinos@nyu.edu"
   address = "New York University, 19 West 4th Street, New York, NY 10003, US"
   office_hours = ""
   phone = ""
@@ -226,7 +226,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:orestis.vravosinos@upf.edu"
+    link = "mailto:orestis.vravosinos@nyu.edu"
 
   [[params.social]]
     icon = "google-scholar"
