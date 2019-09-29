@@ -7,11 +7,11 @@ name = "Montserrat"
 google_fonts = "Flamenco|Advent Pro|Exo|Exo 2|Alegreya Sans|Wire One|Dosis|Fauna One|Lora|Proza Libre|Crimson Text|Cormorant|Libre Baskerville|Alegreya|Cinzel|Forum|Poiret One|Montserrat|Montserrat Thin|Playfair Display|Lato|Raleway|Roboto|Josefin Slab"
 
 # Font families
-heading_font = "Wire One"
-body_font = "Wire One"
-nav_font = "Wire One"
-mono_font = "Wire One"
+heading_font = "Dosis"
+body_font = "Dosis"
+nav_font = "Dosis"
+mono_font = "Dosis"
 
 # Font size
-font_size = "28"
-font_size_small = "24"
+font_size = "22"
+font_size_small = "18"
