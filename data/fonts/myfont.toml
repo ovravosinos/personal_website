@@ -8,9 +8,9 @@ google_fonts = "Lora|Proza Libre|Crimson Text|Cormorant|Libre Baskerville|Alegre
 
 # Font families
 heading_font = "Lora"
-body_font = "Lora"
+body_font = "Playfair Display"
 nav_font = "Playfair Display"
-mono_font = "Lora"
+mono_font = "Playfair Display"
 
 # Font size
 font_size = "22"
