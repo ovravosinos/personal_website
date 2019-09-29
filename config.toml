@@ -50,8 +50,8 @@ enableGitInfo = false
   color_theme = "minimal"
 
   # Font style.
-  #   Choose from `default`, `classic`, or `playfair`.
-  font = "myfont"
+  #   Choose from `default`, `classic`, 'myfont' or `playfair`.
+  font = "default"
 
   # Your details.
   name = "Orestis Vravosinos"
