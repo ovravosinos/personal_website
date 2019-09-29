@@ -4,13 +4,13 @@ name = "Montserrat"
 
 # Optional Google font URL
 #google_fonts = "Cormorant Garamond|Cormorant Garamond|Cormorant Garamond+Cormorant Garamond"
-google_fonts = "Proza Libre|Cormorant|Libre Baskerville|Alegreya|Cinzel|Forum|Poiret One|Montserrat|Montserrat Thin|Playfair Display|Lato|Raleway|Roboto|Josefin Slab"
+google_fonts = "Crimson Text|Cormorant|Libre Baskerville|Alegreya|Cinzel|Forum|Poiret One|Montserrat|Montserrat Thin|Playfair Display|Lato|Raleway|Roboto|Josefin Slab"
 
 # Font families
-heading_font = "Proza Libre"
-body_font = "Proza Libre"
-nav_font = "Proza Libre"
-mono_font = "Proza Libre"
+heading_font = "Crimson Text"
+body_font = "Crimson Text"
+nav_font = "Crimson Text"
+mono_font = "Crimson Text"
 
 # Font size
 font_size = "22"
