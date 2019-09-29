@@ -8,9 +8,9 @@ google_fonts = "Montserrat|Playfair Display|Lato|Raleway|Roboto|Josefin Slab"
 
 # Font families
 heading_font = "Montserrat"
-body_font = "Josefin Slab"
-nav_font = "Josefin Slab"
-mono_font = "Playfair Display"
+body_font = "Montserrat Light"
+nav_font = "Montserrat Thin"
+mono_font = "Montserrat Thin"
 
 # Font size
 font_size = "20"
