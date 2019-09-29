@@ -164,6 +164,7 @@ enableGitInfo = false
   #   (relative to /static/css and /static/js respectively)
   custom_css = []
   custom_js  = []
+  plugins_css = ["custom"]
 
   # Publication types.
   #   Used to categorize publications.
