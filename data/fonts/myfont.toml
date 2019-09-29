@@ -7,8 +7,8 @@ name = "Montserrat"
 google_fonts = "Montserrat|Playfair Display|Lato|Raleway|Roboto|Josefin Slab"
 
 # Font families
-heading_font = "Montserrat"
-body_font = "Montserrat Light"
+heading_font = "Montserrat Thin"
+body_font = "Montserrat Thin"
 nav_font = "Montserrat Thin"
 mono_font = "Montserrat Thin"
 
