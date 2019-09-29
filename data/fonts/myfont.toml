@@ -7,10 +7,10 @@ name = "Montserrat"
 google_fonts = "Proza Libre|Crimson Text|Cormorant|Libre Baskerville|Alegreya|Cinzel|Forum|Poiret One|Montserrat|Montserrat Thin|Playfair Display|Lato|Raleway|Roboto|Josefin Slab"
 
 # Font families
-heading_font = "Montserrat Light"
-body_font = "Montserrat Light"
-nav_font = "Montserrat Light"
-mono_font = "Montserrat Light"
+heading_font = "Montserrat Thin"
+body_font = "Montserrat Thin"
+nav_font = "Montserrat Thin"
+mono_font = "Montserrat Thin"
 
 # Font size
 font_size = "22"
