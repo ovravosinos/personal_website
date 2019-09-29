@@ -4,13 +4,13 @@ name = "Montserrat"
 
 # Optional Google font URL
 #google_fonts = "Cormorant Garamond|Cormorant Garamond|Cormorant Garamond+Cormorant Garamond"
-google_fonts = "Libre Baskerville|Alegreya|Cinzel|Forum|Poiret One|Montserrat|Montserrat Thin|Playfair Display|Lato|Raleway|Roboto|Josefin Slab"
+google_fonts = "Cormorant|Libre Baskerville|Alegreya|Cinzel|Forum|Poiret One|Montserrat|Montserrat Thin|Playfair Display|Lato|Raleway|Roboto|Josefin Slab"
 
 # Font families
-heading_font = "Alegreya"
-body_font = "Alegreya"
-nav_font = "Alegreya"
-mono_font = "Alegreya"
+heading_font = "Cormorant"
+body_font = "Cormorant"
+nav_font = "Cormorant"
+mono_font = "Cormorant"
 
 # Font size
 font_size = "22"
