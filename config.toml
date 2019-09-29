@@ -51,7 +51,7 @@ enableGitInfo = false
 
   # Font style.
   #   Choose from `default`, `classic`, 'myfont' or `playfair`.
-  font = "default"
+  font = "playfair"
 
   # Your details.
   name = "Orestis Vravosinos"
