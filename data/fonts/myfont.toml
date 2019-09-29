@@ -4,7 +4,7 @@ name = "Montserrat"
 
 # Optional Google font URL
 #google_fonts = "Cormorant Garamond|Cormorant Garamond|Cormorant Garamond+Cormorant Garamond"
-google_fonts = "Montserrat|Playfair Display|Lato|Raleway|Roboto|Josefin Slab"
+google_fonts = "Montserrat|Montserrat Thin|Playfair Display|Lato|Raleway|Roboto|Josefin Slab"
 
 # Font families
 heading_font = "Montserrat Thin"
