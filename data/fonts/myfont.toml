@@ -7,10 +7,10 @@ name = "Montserrat"
 google_fonts = "Flamenco|Advent Pro|Exo|Exo 2|Alegreya Sans|Wire One|Dosis|Fauna One|Lora|Proza Libre|Crimson Text|Cormorant|Libre Baskerville|Alegreya|Cinzel|Forum|Poiret One|Montserrat|Montserrat Thin|Playfair Display|Lato|Raleway|Roboto|Josefin Slab"
 
 # Font families
-heading_font = "Exo 2"
-body_font = "Exo 2"
-nav_font = "Exo 2"
-mono_font = "Exo 2"
+heading_font = "Advent Pro"
+body_font = "Advent Pro"
+nav_font = "Advent Pro"
+mono_font = "Advent Pro"
 
 # Font size
 font_size = "22"
