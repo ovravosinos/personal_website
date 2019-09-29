@@ -4,13 +4,13 @@ name = "Montserrat"
 
 # Optional Google font URL
 #google_fonts = "Cormorant Garamond|Cormorant Garamond|Cormorant Garamond+Cormorant Garamond"
-google_fonts = "Josefin Slab"
+google_fonts = "Montserrat|Playfair Display|Lato|Raleway|Roboto|Josefin Slab"
 
 # Font families
-heading_font = "Josefin Slab"
+heading_font = "Montserrat"
 body_font = "Josefin Slab"
 nav_font = "Josefin Slab"
-mono_font = "Josefin Slab"
+mono_font = "Playfair Display"
 
 # Font size
 font_size = "20"
