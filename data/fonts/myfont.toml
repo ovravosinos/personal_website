@@ -7,10 +7,10 @@ name = "Montserrat"
 google_fonts = "Libre Baskerville|Alegreya|Cinzel|Forum|Poiret One|Montserrat|Montserrat Thin|Playfair Display|Lato|Raleway|Roboto|Josefin Slab"
 
 # Font families
-heading_font = "Libre Baskerville"
-body_font = "Libre Baskerville"
-nav_font = "Libre Baskerville"
-mono_font = "Libre Baskerville"
+heading_font = "Raleway"
+body_font = "Raleway"
+nav_font = "Raleway"
+mono_font = "Raleway"
 
 # Font size
 font_size = "22"
