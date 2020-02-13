@@ -13,7 +13,8 @@ weight = 5
     "Decision Theory",
     "Game Theory",
     "Behavioral Economics",
-    "Experimental Economics"
+    "Experimental Economics",
+    "Applied micro theory"
   ]
 
 # List your qualifications (such as academic degrees).
