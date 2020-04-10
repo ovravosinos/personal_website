@@ -10,7 +10,6 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Decision Theory",
     "Game Theory",
     "Behavioral Economics",
     "Experimental Economics",
@@ -41,4 +40,4 @@ weight = 5
 +++
 
 # About
-I am a PhD student in Economics at [New York University](https://as.nyu.edu/econ.html). My research interests lie in the areas of microeconomic theory, and especially decision and game theory informed by behavioral sciences and tested via experimental methods.
+I am a PhD student in Economics at [New York University](https://as.nyu.edu/econ.html). My research interests lie in the areas of game theory, behavioral and experimental economics.
