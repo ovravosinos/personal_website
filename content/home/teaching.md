@@ -13,5 +13,5 @@ widget = "custom"
 weight = 21
 
 +++
-- NYU, 2020-2021: TA for Intermediate Microeconomics, Microeconomics II (PhD)
+- NYU, 2020-2021: TA for Microeconomics II (PhD), Intermediate Microeconomics
 - UPF, 2018-2019: TA for Mathematics I, Mathematics II, Financial Mathematics
