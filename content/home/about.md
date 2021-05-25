@@ -40,4 +40,4 @@ weight = 5
 +++
 
 # About
-I am a PhD student in Economics at [New York University](https://as.nyu.edu/econ.html). My research interests lie in the areas of microeconomic theory, especially game theory, behavioral and experimental economics.
+I am a PhD student in Economics at [New York University](https://as.nyu.edu/econ.html). My research interests lie in the areas of microeconomic theory and experimental economics.
