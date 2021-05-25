@@ -11,8 +11,6 @@ weight = 5
 [interests]
   interests = [
     "Microeconomic theory",
-    "Game Theory",
-    "Behavioral Economics",
     "Experimental Economics"
   ]
 
