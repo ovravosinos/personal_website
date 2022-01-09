@@ -298,6 +298,18 @@ enableGitInfo = false
   tag = "tags"
   category = "categories"
   publication_type = "publication_types"
+  
+  publication_types = [
+    'Uncategorized',  # 0
+    'Conference proceedings',  # 1
+    'Journal',  # 2
+    'Work in progress',  # 3
+    'Technical report',  # 4
+    'Book',  # 5
+    'Book chapter',  # 6
+    'Working paper', # 7
+    'Peer-reviewed' # 8
+  ]
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
