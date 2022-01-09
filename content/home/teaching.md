@@ -10,7 +10,7 @@ subtitle = ""
 widget = "custom"
 
 # Order that this section will appear in.
-weight = 21
+weight = 22
 
 +++
 - NYU, 2020-2021: TA for Microeconomics II (PhD), Intermediate Microeconomics
