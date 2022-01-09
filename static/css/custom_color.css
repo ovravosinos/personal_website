@@ -1,6 +1,10 @@
 /* Change Impression Colour Scheme */
 /* Primary Colour: #57058B */
 /* Secondary Colour: #000000 */
+
+.home-section {
+    padding: 30px 0 30px 0;
+  }
   
 /* Links and buttons */
 a {
