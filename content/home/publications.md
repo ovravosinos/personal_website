@@ -22,14 +22,15 @@ count = 10
 list_format = 2
 
 # Filter by publication type.
-# -1: Any
-#  0: Uncategorized
-#  1: Conference proceedings
-#  2: Journal
-#  3: Work in progress
-#  4: Technical report
-#  5: Book
-#  6: Book chapter
+#   'Uncategorized',  # 0
+#    'Conference proceedings',  # 1
+#    'Journal',  # 2
+#    'Work in progress',  # 3
+#    'Technical report',  # 4
+#    'Book',  # 5
+#    'Book chapter',  # 6
+#    'working paper', # 7
+#    'peer-reviewed' # 8
 publication_type = "2"
 
 # Exclude publications that are shown in the Selected Publications widget?
