@@ -5,6 +5,10 @@
  *  https://github.com/gcushen/hugo-academic
  **************************************************/
 
+.home-section {
+    padding: 10px 0 10px 0;
+  }
+
 a,
 a:visited,
 h3.article-title a:hover {
