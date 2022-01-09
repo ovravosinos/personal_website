@@ -175,12 +175,14 @@ enableGitInfo = false
   #   translated.
   publication_types = [
     'Uncategorized',  # 0
-    'Conference paper',  # 1
-    'Journal article',  # 2
-    'Manuscript',  # 3
-    'Report',  # 4
+    'Conference proceedings',  # 1
+    'Journal',  # 2
+    'Work in progress',  # 3
+    'Technical report',  # 4
     'Book',  # 5
-    'Book section'  # 6
+    'Book chapter',  # 6
+    'Working paper', # 7
+    'Peer-reviewed' # 8
   ]
 
   # Configuration of talk pages.
@@ -269,19 +271,24 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
+  name = "Working papers"
+  url = "#working_papers"
+  weight = 3
+
+[[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 3
+  weight = 4
 
 #[[menu.main]]
 #  name = "Posts"
 #  url = "#posts"
-#  weight = 4
+#  weight = 5
 
 #[[menu.main]]
 #  name = "Projects"
 #  url = "#projects"
-#  weight = 5
+#  weight = 6
 
 [[menu.main]]
   name = "Teaching"
@@ -298,18 +305,6 @@ enableGitInfo = false
   tag = "tags"
   category = "categories"
   publication_type = "publication_types"
-  
-  publication_types = [
-    'Uncategorized',  # 0
-    'Conference proceedings',  # 1
-    'Journal',  # 2
-    'Work in progress',  # 3
-    'Technical report',  # 4
-    'Book',  # 5
-    'Book chapter',  # 6
-    'Working paper', # 7
-    'Peer-reviewed' # 8
-  ]
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
