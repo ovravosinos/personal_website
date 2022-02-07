@@ -270,10 +270,10 @@ enableGitInfo = false
   url = "CV_Orestis_Vravosinos.pdf"
   weight = 2
 
-[[menu.main]]
-  name = "Working papers"
-  url = "#working_papers"
-  weight = 3
+#[[menu.main]]
+#  name = "Working papers"
+#  url = "#working_papers"
+#  weight = 3
 
 [[menu.main]]
   name = "Publications"
