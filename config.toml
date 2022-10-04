@@ -62,7 +62,7 @@ enableGitInfo = false
   organizations = [ { name = "New York University", url = "https://as.nyu.edu/econ.html" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "website_hugo.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "nyu_portrait_2022.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "orestis.vravosinos@nyu.edu"
   address = "New York University, 19 West 4th Street, 6th floor, New York, NY 10003, US"
   office_hours = ""
