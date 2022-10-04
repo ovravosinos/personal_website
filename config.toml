@@ -10,7 +10,7 @@ title = "Orestis Vravosinos"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2022, Photo credit: ©Francis: Courtesy of NYU Photo Bureau"
+copyright = "&copy; 2022 &#183; Photo &copy;Francis: Courtesy of NYU Photo Bureau"
 
 theme = "academic"
 enableEmoji = true
