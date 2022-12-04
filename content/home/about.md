@@ -10,8 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Microeconomic Theory",
-    "Experimental Economics"
+    "Microeconomic theory",
+    "Experimental economics"
   ]
 
 # List your qualifications (such as academic degrees).
