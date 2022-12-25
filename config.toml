@@ -47,7 +47,7 @@ enableGitInfo = false
 [params]
 
   # Google Analytics 4
-  googleAnalyticsID = "G-00000XXXXX"
+  googleAnalyticsID = "G-V06B2NG01Q"
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
