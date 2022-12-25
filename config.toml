@@ -23,7 +23,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = # "UA-140395392-1"
+googleAnalytics = "UA-140395392-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -45,9 +45,6 @@ enableGitInfo = false
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
 [params]
-
-  # Google Analytics 4
-  googleAnalyticsID = "G-V06B2NG01Q"
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
